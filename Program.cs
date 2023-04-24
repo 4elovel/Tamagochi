@@ -31,7 +31,7 @@ namespace Tamagochi
             public Tamagochi()
             {
                 correct = true;
-                timer.Interval = 5000;
+                timer.Interval = 13000;
                 timer.Elapsed += play;
                 timer.Start();
             }
