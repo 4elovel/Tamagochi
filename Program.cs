@@ -145,6 +145,7 @@ namespace Tamagochi
             }
             Console.WriteLine("Thanks for playing!");
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
